@@ -1,0 +1,5 @@
+C:\Proyectos\Talento VPN\Entidades Negocio\bin\Debug\Entidades Negocio.dll
+C:\Proyectos\Talento VPN\Entidades Negocio\bin\Debug\Entidades Negocio.pdb
+C:\Proyectos\Talento VPN\Entidades Negocio\obj\Debug\Entidades Negocio.csproj.CoreCompileInputs.cache
+C:\Proyectos\Talento VPN\Entidades Negocio\obj\Debug\Entidades Negocio.dll
+C:\Proyectos\Talento VPN\Entidades Negocio\obj\Debug\Entidades Negocio.pdb

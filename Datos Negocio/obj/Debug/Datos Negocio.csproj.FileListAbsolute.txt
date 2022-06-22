@@ -1,0 +1,2 @@
+C:\Proyectos\Talento VPN\Datos Negocio\obj\Debug\Datos Negocio.csproj.AssemblyReference.cache
+C:\Proyectos\Talento VPN\Datos Negocio\obj\Debug\Datos Negocio.csproj.CoreCompileInputs.cache
